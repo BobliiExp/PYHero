@@ -1,0 +1,26 @@
+PODS:
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.3)
+  - PYPageScrollView (1.0.4):
+    - PYPageScrollView/PageScrollView (= 1.0.4)
+  - PYPageScrollView/PageScrollView (1.0.4):
+    - Masonry
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - Masonry
+  - MJRefresh
+  - PYPageScrollView
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  PYPageScrollView: 5afa9631cae771f8f61a9fed31d94613f4a51768
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: 9b1524d9e6ecca82afb4c68d6b67aad49699f92c
+
+COCOAPODS: 1.1.1
